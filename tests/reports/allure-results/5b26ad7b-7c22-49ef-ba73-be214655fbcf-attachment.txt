@@ -1,0 +1,12 @@
+[OK] Starting browser: chromium
+[OK] Headless mode: False (headed=True)
+[INFO] Navigating to: https://tutorialsninja.com/demo/
+[TRACE] Tracing enabled - capturing screenshots and actions
+<Locator frame=<Frame name= url='https://tutorialsninja.com/demo/index.php?route=account/address'> selector='#input-firstname'>
+<Locator frame=<Frame name= url='https://tutorialsninja.com/demo/index.php?route=account/address'> selector='internal:attr=[placeholder="Last Name"i]'>
+<Locator frame=<Frame name= url='https://tutorialsninja.com/demo/index.php?route=account/address'> selector='internal:text="Your address has been successfully deleted"s'>
+<Locator frame=<Frame name= url='https://tutorialsninja.com/demo/index.php?route=account/address'> selector='internal:text="Your address has been successfully added"s'>
+test cas paassed
+[RESULT] Test 'test_valid_login_kiran' result: [PASS]
+[SAVE] Trace saved: C:\Users\Kiran.Murthy\opencartPlaywrightPythonFramework\reports\traces\test_valid_login_kiran_trace.zip
+[CLEANUP] Closing browser context and stopping Playwright...

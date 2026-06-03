@@ -1,0 +1,16 @@
+[OK] Starting browser: chromium
+[OK] Headless mode: False (headed=True)
+[INFO] Navigating to: https://tutorialsninja.com/demo/
+[TRACE] Tracing enabled - capturing screenshots and actions
+ Exception while clicking 'My Account': Locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("span:has-text(\"My Account\")")
+    - locator resolved to <span class="hidden-xs hidden-sm hidden-md">My Account</span>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+[RESULT] Test 'test_valid_user_login' result: [FAIL]
+[SAVE] Trace saved: C:\Users\Kiran.Murthy\opencartPlaywrightPythonFramework\reports\traces\test_valid_user_login_trace.zip
+[WARN] Screenshot skipped: Page.screenshot: Target page, context or browser has been closed
+[ATTACH] Video attached to Allure report
+[CLEANUP] Closing browser context and stopping Playwright...

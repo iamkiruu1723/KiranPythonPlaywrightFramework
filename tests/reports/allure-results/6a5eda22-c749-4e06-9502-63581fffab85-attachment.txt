@@ -1,0 +1,7 @@
+[OK] Starting browser: chromium
+[OK] Headless mode: False (headed=True)
+[INFO] Navigating to: https://tutorialsninja.com/demo/
+[TRACE] Tracing enabled - capturing screenshots and actions
+[RESULT] Test 'test_valid_login_kiran' result: [PASS]
+[SAVE] Trace saved: C:\Users\Kiran.Murthy\opencartPlaywrightPythonFramework\reports\traces\test_valid_login_kiran_trace.zip
+[CLEANUP] Closing browser context and stopping Playwright...
