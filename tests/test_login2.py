@@ -39,7 +39,7 @@ import time
 from pages.home_page import HomePage
 from pages.login_page import LoginPage
 from pages.my_account_page import MyAccountPage
-from pages.add_addresspage import AddressPage
+from pages.add_addresspageu import AddressPage
 from playwright.sync_api import expect
 from utilities import random_data_util
 from config import Config
